@@ -1,2 +1,2 @@
 # gitexample
-Sample repository to start playing around with github
+Sample repository to start toying around with github
