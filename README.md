@@ -1,2 +1,2 @@
 # gitexample
-Sample repository to start playing around with git
+Sample repository to start toying around with git
